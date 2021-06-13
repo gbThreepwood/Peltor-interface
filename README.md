@@ -6,9 +6,17 @@ The Peltor MT72H61B is a Military headset with microphone, and push to talk butt
 
 ![Headset overview](https://raw.githubusercontent.com/gbThreepwood/Peltor-interface/master/images/headset_overview.jpg "Headset overview")
 
+
+
+
+![Connector](https://raw.githubusercontent.com/gbThreepwood/Peltor-interface/master/images/connector.jpg "Connector")
+
 This project attempts to document the interface, in order for the headset to be used for applications outside of what was probably originally intended by the manufacturer. E.g. to connect it to a PC for use in online meetings.
 
 ## Internal wiring
+
+
+![Connection box](https://raw.githubusercontent.com/gbThreepwood/Peltor-interface/master/images/connection_box.jpg "Connection box")
 
 The speaker measures 118 Ohm, while the microphone is a dynamic type, and measures 235.6 Ohm.
 
