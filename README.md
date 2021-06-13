@@ -62,3 +62,10 @@ headset.
 
 This is solvable in software, but a hardware solution will ensure that the
 headset will operate immediately when switching to a new PC.
+
+
+## Telephone interfacing circuit
+
+The headset is supported by the RA2000 army field telephone. If such a phone is
+availabe, it is thus an option to interface the phone with the PC, instead of directly interfacing the headset.
+
